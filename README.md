@@ -1,1 +1,1 @@
-# test for git demonstration
+# test for git commands demonstration
